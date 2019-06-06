@@ -2,4 +2,61 @@
 "Name": "Tolu",
 "Age": 27,
 "Height": "180cm"
+ "Country": "United Kingdom",
+ "occupation":
 }
+
+{
+"Name": "John",
+"Age": 45,
+"Height": "183cm"
+"Country": "United States",
+"occupation":
+}
+
+{
+"Name": "Tola",
+"Age": 27,
+"Height": "181cm"
+"Country": "United Kingdom",
+"occupation":
+}
+
+{
+"Name": "Nike",
+"Age": 54,
+"Height": "173cm"
+"Country": "Canada",
+"occupation":
+}
+{
+"Name": "Lois",
+"Age": 22,
+"Height": "180cm"
+"Country": "Nigeria",
+"occupation":
+}
+
+{
+"Name": "Mary",
+"Age": 32,
+"Height": "154cm"
+ "Country": "Moldova",
+ "occupation":
+}
+{
+"Name": "Dave",
+"Age": 32,
+"Height": "154cm"
+ "Country": "Indonesia"
+ "occupation":
+}
+{
+"Name": "Tom",
+"Age": 42,
+"Height": "180cm"
+"Country": "United Kingdom",
+"occupation":
+}
+
+
